@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Chirag 😎
-![Profile Views](https://komarev.com/ghpvc/?username=pratik7143&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=EliteCoder457&color=blue)
 
 
 🎓 B.Tech CSE Student @ UPES Dehradun    
@@ -8,8 +8,8 @@
 
 ## 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratik7143&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik7143&theme=radical" alt="streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=EliteCoder457&show_icons=true&theme=radical" alt="stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EliteCoder457&theme=radical" alt="streak" height="165"/>
 </p>
 
 ---
