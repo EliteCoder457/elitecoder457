@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Chirag 😎
-![Profile Views](https://komarev.com/ghpvc/?username=EliteCoder457&color=blue)
 
 
 🎓 B.Tech CSE Student @ UPES Dehradun    
