@@ -1,7 +1,7 @@
 # Hi there 👋, I'm TorPhantom 😎
 
 
-🎓 B.Tech CSE Student @ UPES Dehradun    
+🎓 B.Tech CSE Student    
 
 ---
 
